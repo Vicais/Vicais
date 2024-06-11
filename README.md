@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vicais , I'm from Brazil.
 - 👀 I’m interested on using codes for fun.
-- 🌱 I’m currently learning javascript, c#,
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on coding part.
 - 📫 How to reach me Instagram: @vicais,
 
